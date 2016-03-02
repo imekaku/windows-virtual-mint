@@ -2,6 +2,11 @@
 #include <string>
 using namespace std;
 
+void print()
+{
+    printf("hello world\n");
+}
+
 int main()
 {
     cout<<"hello world!"<<endl;
