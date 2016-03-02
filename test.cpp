@@ -7,5 +7,6 @@ int main()
     cout<<"change"<<endl;
     cout<<"sixth"<<endl;
     cout<<"dev"<<endl;
+    cout<<"feature1"<<endl;
     return 0;
 }
