@@ -11,4 +11,9 @@ int main()
     cout<<"feature1"<<endl;
     return 0;
 }
+<<<<<<< HEAD
 this is the master
+=======
+
+this is the feature1
+>>>>>>> feature1
