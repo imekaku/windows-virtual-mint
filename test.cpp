@@ -17,3 +17,8 @@ this is the master
 
 this is the feature1
 >>>>>>> feature1
+
+void sort()
+{
+    something to sort
+}
