@@ -27,3 +27,5 @@ void sort()
 {
     something to sort
 }
+
+"the master bug fix"
